@@ -47,7 +47,7 @@ class ViewController: UIViewController {
         sendMailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
     }
     
-    
+    // ben
 
 }
 
